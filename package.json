@@ -1,0 +1,13 @@
+{
+  "name": "thorstenbaek-book-backend-express",
+  "version": "1.0.0",
+  "description": "Simple backend for book project",
+  "author": "Thor Stenbæk <thorstenbaek@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
